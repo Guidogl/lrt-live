@@ -1,3 +1,3 @@
 # lrt-live
 
-This is a technical challange for IBM intership
+This is a technical challenge for IBM intership.
